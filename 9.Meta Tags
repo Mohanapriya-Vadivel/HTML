@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Webpage – Day 9</title>
+    
+    <!-- Meta Tags -->
+    <meta name="description" content="This is Priya's HTML practice webpage for learning HTML step by step.">
+    <meta name="keywords" content="HTML, Learning HTML, Priya's Webpage, HTML Practice">
+    <meta name="author" content="Priya">
+    <meta name="robots" content="index, follow">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Day 9 of My Webpage!</h1>
+        <p>Today, we will learn about Meta Tags and basic SEO in HTML.</p>
+    </header>
+
+    <main>
+        <h2>What are Meta Tags?</h2>
+        <p>Meta tags provide metadata about the HTML document and are placed inside the &lt;head&gt; section.</p>
+
+        <h2>Examples of Meta Tags</h2>
+        <ul>
+            <li>&lt;meta charset="UTF-8"&gt; – Specifies character encoding</li>
+            <li>&lt;meta name="description" content="... "&gt; – Page description for SEO</li>
+            <li>&lt;meta name="keywords" content="... "&gt; – Keywords for search engines</li>
