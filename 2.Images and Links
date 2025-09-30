@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Webpage – Day 2</title>
+</head>
+<body>
+    <h1>Welcome to Day 2 of My Webpage!</h1>
+    <p>Hello! Today, we are adding images and links to our page.</p>
+
+    <!-- Image Example -->
+    <img src="https://via.placeholder.com/300" alt="Sample Image">
+
+    <!-- Link Example -->
+    <p>Check out my favorite website: <a href="https://www.zoho.com" target="_blank">Zoho</a></p>
+
+    <p>Next, we will learn lists and tables!</p>
+</body>
+</html>
