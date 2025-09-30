@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Webpage – Day 8</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Day 8 of My Webpage!</h1>
+        <p>Today, we will learn about HTML Entities and Special Characters.</p>
+    </header>
+
+    <h2>Common HTML Entities</h2>
+    <ul>
+        <li>&lt; &nbsp; – Less than (&lt;)</li>
+        <li>&gt; &nbsp; – Greater than (&gt;)</li>
+        <li>&amp; &nbsp; – Ampersand (&amp;)</li>
+        <li>&quot; &nbsp; – Double Quote (&quot;)</li>
+        <li>&apos; &nbsp; – Single Quote (&apos;)</li>
+        <li>&copy; &nbsp; – Copyright (&copy;)</li>
+        <li>&reg; &nbsp; – Registered (&reg;)</li>
+    </ul>
+
+    <h2>Example in Text</h2>
+    <p>5 &lt; 10 and 10 &gt; 5</p>
+    <p>Use &amp; to represent & symbol</p>
+    <p>&copy; 2025 Priya's Webpage</p>
+
+    <footer>
+        <p>&copy; 2025 Priya's Webpage</p>
+    </footer>
+</body>
+</html>
