@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Complete Webpage</title>
+    
+    <!-- Meta Tags -->
+    <meta name="description" content="This is Priya's complete HTML practice webpage combining all learned topics.">
+    <meta name="keywords" content="HTML, Priya, Webpage, Practice">
+    <meta name="author" content="Priya">
+    <meta name="robots" content="index, follow">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Priya's Webpage!</h1>
+        <p>This is the final HTML page after 10 days of practice.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- About Section -->
+        <section>
+            <h2>About Me</h2>
+            <p>Hi! I am Priya, learning HTML step by step. My hobbies include singing, cooking, and programming.</p>
+        </section>
+
+        <!-- Favorite Foods List -->
+        <section>
+            <h2>My Favorite Foods</h2>
+            <ul>
+                <li>Mutton Biryani</li>
+                <li>Chicken Biryani</li>
+                <li>Fish Biryani</li>
+                <li>Vegetable Biryani</li>
+            </ul>
+        </section>
+
+        <!-- Study Schedule Table -->
+        <section>
+            <h2>Weekly Study Schedule</h2>
+            <table border="1">
+                <tr>
+                    <th>Day</th>
+                    <th>Subject</th>
+                    <th>Hours</th>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>Python</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>HTML</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>Java</td>
+                    <td>2</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Form Section -->
+        <section>
+            <h2>Contact Form</h2>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name"><br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your email"><br><br>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" placeholder="Enter your message"></textarea><br><br>
+
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+
+        <!-- Media Section -->
+        <section>
+            <h2>My Favorite Media</h2>
+            <img src="https://via.placeholder.com/300" alt="Sample Image">
+            <video width="320" height="240" controls>
+                <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            </video>
+            <audio controls>
+                <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+            </audio>
+        </section>
+
+        <!-- Iframe Section -->
+        <section>
+            <h2>Embedded Content</h2>
+            <iframe src="https://www.google.com" width="600" height="400" title="Google"></iframe>
+        </section>
+
+        <!-- HTML Entities Example -->
+        <section>
+            <h2>HTML Entities Example</h2>
