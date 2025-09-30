@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Webpage – Day 3</title>
+</head>
+<body>
+    <h1>Welcome to Day 3 of My Webpage!</h1>
+    <p>Today, we will learn Lists and Tables in HTML.</p>
+
+    <!-- Unordered List -->
+    <h2>My Favorite Foods:</h2>
+    <ul>
+        <li>Mutton Biryani</li>
+        <li>Chicken Biryani</li>
+        <li>Fish Biryani</li>
+        <li>Vegetable Biryani</li>
+    </ul>
+
+    <!-- Ordered List -->
+    <h2>Steps to Make Tea:</h2>
+    <ol>
+        <li>Boil water</li>
+        <li>Add tea leaves</li>
+        <li>Add milk and sugar</li>
+        <li>Serve hot</li>
+    </ol>
+
+    <!-- Table -->
+    <h2>Weekly Study Schedule:</h2>
+    <table border="1">
+        <tr>
+            <th>Day</th>
+            <th>Subject</th>
+            <th>Hours</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Python</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>HTML</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>Java</td>
+            <td>2</td>
+        </tr>
+    </table>
+
+    <p>Next, we will learn Forms and Input elements!</p>
+</body>
+</html>
