@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Webpage – Day 7</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Day 7 of My Webpage!</h1>
+        <p>Today, we will learn about Iframes and embedding content.</p>
+    </header>
+
+    <!-- Iframe Example -->
+    <h2>Embedded Google</h2>
+    <iframe src="https://www.google.com" width="600" height="400" title="Google"></iframe>
+
+    <!-- Embedded YouTube Video -->
+    <h2>Embedded YouTube Video</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video" frameborder="0" allowfullscreen></iframe>
+
+    <footer>
+        <p>&copy; 2025 Priya's Webpage</p>
+    </footer>
+</body>
+</html>
