@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priya's Webpage – Day 5</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Day 5 of My Webpage!</h1>
+        <p>Today, we are learning Semantic HTML tags.</p>
+    </header>
+
+    <nav>
+        <p>Navigation Menu:</p>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hi! I am Priya, learning HTML step by step.</p>
+        </section>
+
+        <section>
+            <h2>My Hobbies</h2>
+            <ul>
+                <li>Singing</li>
+                <li>Cooking</li>
+                <li>Programming</li>
+            </ul>
+        </section>
+    </main>
+
+    <aside>
+        <h3>Quick Links</h3>
+        <ul>
+            <li><a href="#">Zoho</a></li>
+            <li><a href="#">GitHub</a></li>
+        </ul>
+    </aside>
+
+    <footer>
+        <p>&copy; 2025 Priya's Webpage</p>
+    </footer>
+</body>
+</html>
